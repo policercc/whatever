@@ -1205,7 +1205,7 @@
       }
 
       if ($('body').is('.is-editing')) {
-        alert('Complete your action before! (Click the check icon in the edit sidebar.)');
+        alert('Completa prima la tua azione! (Fai clic sull'icona di spunta nella barra laterale di modifica.)');
         return;
       }
 
