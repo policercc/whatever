@@ -561,7 +561,7 @@
 
       $addField
         .find('h3')
-          .text('Configure your new field:')
+          .text('Configura il tuo nuovo campo:')
       ;
 
       /*
